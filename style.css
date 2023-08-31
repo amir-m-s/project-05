@@ -13,3 +13,7 @@ body {
     font-family: 'Vazir' !important;
     padding-top: 3rem;
 }
+
+.copyright {
+    direction: ltr;
+}
